@@ -1,0 +1,30 @@
+[submodule "peepingtom"]
+	path = peepingtom
+	url = https://bitbucket.org/LaNMaSteR53/peepingtom.git
+[submodule "sqlmap"]
+	path = sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
+[submodule "groupenum"]
+	path = groupenum
+	url = https://github.com/SpiderLabs/groupenum.git
+[submodule "Responder"]
+	path = Responder
+	url = https://github.com/SpiderLabs/Responder.git
+[submodule "PowerUp"]
+	path = PowerUp
+	url = https://github.com/HarmJ0y/PowerUp.git
+[submodule "smbexec"]
+	path = smbexec
+	url = https://github.com/pentestgeek/smbexec.git
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = https://github.com/mattifestation/PowerSploit.git
+[submodule "svn-extractor"]
+	path = svn-extractor
+	url = https://github.com/anantshri/svn-extractor.git
+[submodule "Veil-Evasion"]
+	path = Veil-Evasion
+	url = https://github.com/Veil-Framework/Veil-Evasion.git
+[submodule "Veil-Catapult"]
+	path = Veil-Catapult
+	url = https://github.com/Veil-Framework/Veil-Catapult.git
