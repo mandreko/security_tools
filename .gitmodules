@@ -31,3 +31,6 @@
 [submodule "metasploit-framework"]
 	path = metasploit-framework
 	url = https://github.com/rapid7/metasploit-framework.git
+[submodule "arachni"]
+	path = arachni
+	url = https://github.com/Arachni/arachni.git
