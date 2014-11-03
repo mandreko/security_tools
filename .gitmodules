@@ -28,3 +28,6 @@
 [submodule "Veil-Catapult"]
 	path = Veil-Catapult
 	url = https://github.com/Veil-Framework/Veil-Catapult.git
+[submodule "metasploit-framework"]
+	path = metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework.git
