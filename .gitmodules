@@ -34,3 +34,6 @@
 [submodule "arachni"]
 	path = arachni
 	url = https://github.com/Arachni/arachni.git
+[submodule "pykek"]
+	path = pykek
+	url = git@github.com:bidord/pykek.git
