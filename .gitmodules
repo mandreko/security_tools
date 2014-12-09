@@ -37,3 +37,6 @@
 [submodule "pykek"]
 	path = pykek
 	url = git@github.com:bidord/pykek.git
+[submodule "PowerShell"]
+	path = PowerShell
+	url = https://github.com/clymb3r/PowerShell.git
