@@ -40,3 +40,6 @@
 [submodule "PowerShell"]
 	path = PowerShell
 	url = https://github.com/clymb3r/PowerShell.git
+[submodule "beef"]
+	path = beef
+	url = https://github.com/beefproject/beef.git
