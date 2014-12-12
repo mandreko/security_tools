@@ -43,3 +43,6 @@
 [submodule "beef"]
 	path = beef
 	url = https://github.com/beefproject/beef.git
+[submodule "ridenum"]
+	path = ridenum
+	url = https://github.com/trustedsec/ridenum
