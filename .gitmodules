@@ -46,3 +46,24 @@
 [submodule "ridenum"]
 	path = ridenum
 	url = https://github.com/trustedsec/ridenum
+[submodule "impacket"]
+	path = impacket
+	url = https://github.com/CoreSecurity/impacket.git
+[submodule "pipal"]
+	path = pipal
+	url = https://github.com/digininja/pipal.git
+[submodule "sslscan"]
+	path = sslscan
+	url = https://github.com/rbsec/sslscan.git
+[submodule "wpscan"]
+	path = wpscan
+	url = https://github.com/wpscanteam/wpscan.git
+[submodule "unicorn"]
+	path = unicorn
+	url = https://github.com/trustedsec/unicorn.git
+[submodule "dnsrecon"]
+	path = dnsrecon
+	url = https://github.com/darkoperator/dnsrecon.git
+[submodule "meterssh"]
+	path = meterssh
+	url = https://github.com/trustedsec/meterssh.git
