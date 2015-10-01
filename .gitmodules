@@ -67,3 +67,18 @@
 [submodule "meterssh"]
 	path = meterssh
 	url = https://github.com/trustedsec/meterssh.git
+[submodule "Inveigh"]
+	path = Inveigh
+	url = https://github.com/Kevin-Robertson/Inveigh.git
+[submodule "wifiphisher"]
+	path = wifiphisher
+	url = https://github.com/sophron/wifiphisher.git
+[submodule "PowerTools"]
+	path = PowerTools
+	url = https://github.com/PowerShellEmpire/PowerTools.git
+[submodule "nishang"]
+	path = nishang
+	url = https://github.com/samratashok/nishang.git
+[submodule "windows-privesc-check"]
+	path = windows-privesc-check
+	url = https://github.com/pentestmonkey/windows-privesc-check.git
